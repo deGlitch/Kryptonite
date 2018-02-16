@@ -1,0 +1,10 @@
+﻿  Kryptonite.cpp
+c:\users\glitch\source\repos\kryptonite\kryptonite\Nrop.h(102114): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\glitch\source\repos\kryptonite\kryptonite\Nrop.h(102114): warning C4309: 'initializing': truncation of constant value
+  Generating code
+c:\users\glitch\source\repos\kryptonite\kryptonite\kryptonite.cpp(52): warning C4172: returning address of local variable or temporary: key
+  3 of 18 functions (16.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Kryptonite.vcxproj -> C:\Users\glitch\source\repos\Kryptonite\Release\Kryptonite.exe

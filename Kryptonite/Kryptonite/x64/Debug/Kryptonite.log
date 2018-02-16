@@ -1,0 +1,12 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  stdafx.cpp
+cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  Kryptonite.cpp
+c:\users\glitch\source\repos\kryptonite\kryptonite\nrop.h(102114): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\glitch\source\repos\kryptonite\kryptonite\nrop.h(102114): warning C4309: 'initializing': truncation of constant value
+c:\users\glitch\source\repos\kryptonite\kryptonite\kryptonite.cpp(38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\glitch\source\repos\kryptonite\kryptonite\kryptonite.cpp(39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\glitch\source\repos\kryptonite\kryptonite\kryptonite.cpp(103): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\glitch\source\repos\kryptonite\kryptonite\kryptonite.cpp(61): warning C4172: returning address of local variable or temporary: key
+Kryptonite.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Kryptonite.vcxproj -> C:\Users\glitch\source\repos\Kryptonite\x64\Debug\Kryptonite.exe
